@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tapapriya
-- 👀 I’m interested in software deveploment.
+- 👀 I’m interested in Game Deveploment.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on learning different prog. languages. 
 - 📫 How to reach me:  topo.3197@gmail.com
